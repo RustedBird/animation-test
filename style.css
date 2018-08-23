@@ -1,0 +1,36 @@
+@keyframes curse {
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+#path1 {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: curse 2s linear forwards;
+}
+#path2 {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: curse 2.1s linear forwards 1.5s;
+}
+#path3 {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: curse 2.1s linear forwards 2s;
+}
+#path4 {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: curse 2.1s linear forwards 2.5s;
+}
+#path5 {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: curse 2.1s linear forwards 3s;
+}
+#path6 {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: curse 2.1s linear forwards 3.5s;
+}
