@@ -1,5 +1,5 @@
 ;(function ($) {
-    var $pathArray = $('path');
+    /*var $pathArray = $('path');
 
     var a = 1;
     
@@ -18,5 +18,5 @@
         $('path').removeClass('pen');
         a = 1;
         printChar();
-    })
+    })*/
 }(jQuery));
