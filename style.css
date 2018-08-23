@@ -4,6 +4,12 @@
     }
 }
 
+svg {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
 #path1 {
     stroke-dasharray: 1000;
     stroke-dashoffset: 1000;
